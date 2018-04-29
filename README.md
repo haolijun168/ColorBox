@@ -30,6 +30,9 @@
 
 ### Description
 <br>
+Clicking on the box will make the box and its surrounding boxes occupied (fill color), but it will be released when the box has been occupied, and you will win when all boxes are occupied!
+
+<br>
 1.Each block has two states, the free state (white squares) and the occupied state (color squares).
 <br>
 2.The initial state is free. When the box is clicked, the current state of the box changes to the opposite state, ie, discoloration.
