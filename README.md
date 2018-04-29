@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width=500 src="https://github.com/haolijun168/ColorBox/blob/master/Image/logo.jpg">
 
 <br> <br>
 
@@ -22,8 +22,7 @@
 </tr>
 
 <tr>
-<td> <img src="http://i.imgur.com/EMGOw0g.png"> </td>
-<td> <img src="http://i.imgur.com/gD45NYH.png"> </td>
+
 </tr>
 
 
