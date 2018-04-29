@@ -3,8 +3,8 @@
 
 <br> <br>
 
-<h1> BoardBank </h1> 
-<h3> Money Manager for Board Games </h3></div>
+<h1> ColorBox </h1>
+<h3> </h3></div>
 
 <br>
 
@@ -29,20 +29,17 @@
 </table>
 
 ### Description
-
-BoardBank lets you focus on the fun sides of MONOPOLY® by handling all the money transactions for you. This app keeps track of the accounts of up to 6 players so you can enjoy the game without having to worry about counting money anymore.
-
-• Add players by tapping the "+" button
 <br>
-• Transfer money by simply dragging between the players or the bank
+1.Each block has two states, the free state (white squares) and the occupied state (color squares).
 <br>
-• Quickly add $200 when a player passes "GO" by tapping on him
+2.The initial state is free. When the box is clicked, the current state of the box changes to the opposite state, ie, discoloration.
 <br>
-• Customise the currency, the quick add amount and the default balance in the settings
+3.At the same time, the state of the block adjacent to the square (excluding the squares adjacent to the diagonal) will also change, and the game will end when all the squares have become occupied.
 <br>
+4.Try to challenge more levels of game difficulty.
 
 
 ### User Information
-mail: to78747868@sina.com
+mto28@sina.com
 <br>
-tell: +60133883696
+tell: +60133885222
