@@ -14,7 +14,6 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/haolijun168/ColorBox/master/Image/IMG_8279.JPG"> </td>
 <td> <img src="https://raw.githubusercontent.com/haolijun168/ColorBox/master/Image/IMG_8276.JPG"> </td>
 <td> <img src="https://raw.githubusercontent.com/haolijun168/ColorBox/master/Image/IMG_8277.JPG"> </td>
 <td> <img src="https://raw.githubusercontent.com/haolijun168/ColorBox/master/Image/IMG_8278.JPG"> </td>
