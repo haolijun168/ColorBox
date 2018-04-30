@@ -1,5 +1,5 @@
 <div align="center">
-<img width=500 src="https://github.com/haolijun168/ColorBox/blob/master/Image/logo.jpg">
+<img width=300 src="https://raw.githubusercontent.com/haolijun168/ColorBox/master/Image/logo1.jpg">
 
 <br> <br>
 
